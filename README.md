@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Karolina
-- 👀 I’m interested in Photography, Sport and recently coding
-- 🌱 I’m currently learning HTML,CSS, JAVASCRIPT
 
 
 <!---
