@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karkolo16&label=Profile%20views&color=0e75b6&style=flat" alt="karkolo16" /> </p>
 
+- 🔭 I’m currently working on my own first website **Integra website**
+
+- 🌱 I’m currently learning **JavaScript and React**
+
 - 📫 How to reach me **ka.kolomyjec@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
