@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karkolo16&label=Profile%20views&color=0eb421&style=plastic" alt="karkolo16" /> </p>
 
-- 🔭 I’m currently working on my own first website [It's like about me website :D ] [(https://github.com/Karkolo16/o-mnie)]
+- 🔭 I’m currently working on my own first website It's like about me website 
 
 - 🌱 I’m currently learning **JavaScript and React**
 
