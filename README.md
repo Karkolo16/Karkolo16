@@ -19,6 +19,3 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karkolo16&show_icons=true&theme=dark&locale=en" alt="karkolo16" /></p>
-
-
