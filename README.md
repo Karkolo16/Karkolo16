@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karolina</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate junior frontend developer from Poland</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karkolo16&label=Profile%20views&color=0eb421&style=plastic" alt="karkolo16" /> </p>
 
